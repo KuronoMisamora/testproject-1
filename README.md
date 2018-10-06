@@ -1,5 +1,5 @@
-#this is a comment that will not show
-##This is a comment that will show
+# This is a comment  
+## This is a comment that will show
 
 _this wil be italic_  
 **this will be bold**  
